@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreejeshs
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C,Cpp
+- 🌱 I’m currently learning Cpp
 - 💞️ I’m looking to collaborate on embedded projects
 - 📫 How to reach me shreejeshs@gmail.com
 
